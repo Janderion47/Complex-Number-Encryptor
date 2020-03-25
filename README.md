@@ -2,6 +2,7 @@
 
 This package is capable of encoding messages into lists of numbers using algebra and complex numbers
 
+## Complex_Number_Encryptor.ComplexNumber
 An example of how to use this is as follows:
 ```python
 from Complex_Number_Encryptor.ComplexNumber import Encoder
