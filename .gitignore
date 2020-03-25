@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/
+Complex_Number_Encryptor/
+setup.py
+tests/
