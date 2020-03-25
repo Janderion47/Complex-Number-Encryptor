@@ -131,3 +131,6 @@ dmypy.json
 Complex_Number_Encryptor/
 setup.py
 tests/
+!/Complex_Number_Encryptor/
+!/Complex_Number_Encryptor/__init__.py
+!/Complex_Number_Encryptor/ComplexNumber.py
